@@ -1,3 +1,7 @@
+import streamlit as st
+
+st.title("App funcionando 🚀")
+st.write("Si ves esto, el problema no es Streamlit")
 
 import streamlit as st
 import pandas as pd
